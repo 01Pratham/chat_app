@@ -1,0 +1,39 @@
+# Node modules
+/frontend/node_modules
+/backend/node_modules
+
+# Yarn PnP
+/frontend/.pnp
+/frontend/.pnp.js
+
+# Testing
+/frontend/coverage
+
+# Production
+/frontend/build
+
+# Miscellaneous
+/frontend/.DS_Store
+
+# Environment Variables
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Log files
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Backend-specific ignores (if needed, can add more)
+# Example: /backend/build
+
+# General IDE/editor specific files (optional but useful)
+.vscode/
+.idea/
+*.swp
+
+# Other OS-generated files
+.DS_Store
+Thumbs.db
